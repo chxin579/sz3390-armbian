@@ -23,7 +23,7 @@ on:
       armbian_board:
         description: "Select device board."
         required: false
-        default: "amlogic"
+        default: "sz3390"
         type: choice
         options:
           - eaidk-610
